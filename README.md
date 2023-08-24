@@ -4,7 +4,7 @@ Assignment on Advanced ML
 Problem statement
 The goal of this project is to predict the type of bean using various features of the bean. This is a multi-class classification problem. F1-score is taken as an evaluation metric.
 
-Dataset
+Dataset- [Dry Bean Dataset](https://www.kaggle.com/datasets/muratkokludataset/dry-bean-dataset)
 The dataset for this assignment is the Dry Bean Dataset. It contains various features of different types of beans, as well as their corresponding type.
 
 Relevant Information
